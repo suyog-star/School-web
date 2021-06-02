@@ -1,0 +1,61 @@
+#map iframe {
+    width: 100%;
+}
+
+iframe {
+    width: 100%;
+}
+
+.travel_maindiv {
+    float: none;
+    border: 1px solid white;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.travel_maindiv hr {
+    width: 230px;
+
+}
+
+.travel_maindiv h5,
+.travel_maindiv p {
+    margin-left: 20px;
+
+}
+
+.travel_maindiv img {
+    width: 100%;
+
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+
+.movie_head i {
+    float: right;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
